@@ -4,11 +4,9 @@
 ### 安装要求
 这个项目要求使用 **Python 2.7** 以及安装下列python库
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-  ​
+同学们，我之前写的solr的java封装好的一个类库，版本是4.3的，封装好的功能报告索引的index,update,delete,各种类型的query查询。大家如果有感兴趣的可以下载下来，我把项目方在了github上了。大家可以增加新功能和修改，修改后可以提交上去，一起来维护，
+
+
 
 你还需要安装和运行 [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html#optional-for-experienced-python-developers-installing-jupyter-with-pip)。
 
